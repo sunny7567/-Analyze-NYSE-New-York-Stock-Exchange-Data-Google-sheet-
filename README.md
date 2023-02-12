@@ -11,8 +11,9 @@ I am working on three separate tasks for this project.
 
 
 ## Task > 1 Complete your own data analysis and create a presentation to share your findings,
-Cleanning data  form google sheet. remove NULL value , extra space, change column format, Set up named ranges for the data,Change all the column names to informative names that have no spaces.
-After that i create the Presentation. I choose any 2 Sector to make my presentation. I take the Real Estate OR Indusrials?
+Data cleaning in a google sheet. the NULL value, extra space, the format of the column, For the data, create named ranges, All column names should be changed to meaningful, space-free names.
+The Presentation is then created. I decide which two sectors to present on. I choose the Industrials OR Real Estate
+
 ![image](https://user-images.githubusercontent.com/116772724/218328217-ca328924-d028-4f4c-b171-8ec6f71ad011.png)
 ![image](https://user-images.githubusercontent.com/116772724/218328315-68c626e3-333c-490f-bea6-3663b0ed995e.png)
 
@@ -22,7 +23,7 @@ After that i create the Presentation. I choose any 2 Sector to make my presentat
 
 
 ## Task > 2 Develop a dashboard for a Profit and Loss Statement.
- In this task I create the dashboard using some formula. you can check any company P/L statement. In drop down menu you can change comapny name.
+I use a formula to construct the dashboard for this task. You can examine the P/L statement of any corporation. You may alter the company name using the drop-down menu.
  * Total Operating Expenses= SGAs + Operating Expenses
  * Operating Income = Gross Profit - Total Operating Expenses
  * Net Income = Operating Income - (Interest and Taxes)
@@ -36,7 +37,7 @@ After that i create the Presentation. I choose any 2 Sector to make my presentat
  
  
  ## Task > 3 Create a Financial Forecasting Model using three scenarios.
- In last task I use some google sheet formula to make this dashboard. for three scenarios use qurtile value. weak (Q1-1.5), strong(Q3+1.5), Basic(average of all value) 
+ In my task, I built this dashboard and used some Google Sheets formulae. Use the quartile value for the 3 scenarios. Basic, weak (Q1-1.5), strong (Q3+15) (average of all value) 
  
  ![image](https://user-images.githubusercontent.com/116772724/218329504-f454ed59-879f-4f38-b3a8-76d578d056fc.png)
  ![image](https://user-images.githubusercontent.com/116772724/218329522-1cb5cedb-fe11-422f-b511-327310ab7030.png)
